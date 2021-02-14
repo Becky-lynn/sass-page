@@ -1,0 +1,17 @@
+
+/*brandcolor is font color*/
+$brandcolor:  #535568;
+$bgcolor: #fffacd;
+$font1: 'Parisienne', cursive;
+
+body {
+    background-color: $bgcolor;
+    font-family: $font1;
+    }
+
+h1,h2,h3,h4,h5,h6 {
+    color: $brandcolor;
+}
+
+
+

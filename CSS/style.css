@@ -1,0 +1,58 @@
+/*brandcolor is font color*/
+body {
+  background-color: #fffacd;
+  font-family: "Parisienne", cursive; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #535568; }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color: #535568;
+  font-family: "Open Sans", sans-serif;
+  color: #fffff0; }
+  nav ul li {
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 200px;
+    margin-right: 5em; }
+
+.btn-group {
+  width: 150px;
+  float: right; }
+
+button {
+  background-color: #f48498;
+  color: #fffff0;
+  font-family: "Open Sans", sans-serif;
+  margin-top: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+  border-radius: 25%;
+  width: 104.8;
+  height: 36;
+  border: none;
+  display: block; }
+
+.fa-facebook-square {
+  color: #3b5998;
+  padding: 5px;
+  font-size: 1.5em; }
+
+img {
+  float: left; }
+
+.header {
+  width: fit-content;
+  display: inline-block;
+  margin-left: 50px; }
+
+h1 {
+  font-size: 60px;
+  margin-bottom: 5px; }
+
+h2 {
+  font-size: 30px;
+  text-align: center; }
